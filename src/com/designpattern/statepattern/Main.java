@@ -1,4 +1,4 @@
-package com.designpattern;
+package com.designpattern.statepattern;
 
 import com.designpattern.statepattern.EditText;
 import com.designpattern.statepattern.TextView;
